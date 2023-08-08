@@ -1,3 +1,0 @@
-Hola Grupo
-
-Este es un commit con cambios
